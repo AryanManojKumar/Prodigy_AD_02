@@ -1,0 +1,21 @@
+<resources>
+    <color name="background_color">#FAF3E0</color> <!-- White -->
+    <color name="primary_color">#6200EE</color> <!-- Primary accent color -->
+    <color name="text_color">#000000</color> <!-- Black -->
+    <color name="accent_color">#03DAC5</color>
+
+    <color name="text_color_primary">#333333</color>
+    <color name="text_color_secondary">#666666</color>
+    <color name="button_color">#00BFFF</color> <!-- Deep sky blue -->
+    <color name="button_text_color">#FFFFFF</color> <!-- White -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BB86FC</color>
+
+
+
+</resources>
